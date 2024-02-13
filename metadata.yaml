@@ -1,0 +1,29 @@
+_repo: Marraskuun-ilta-b-Novelleja_72832
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kaste, Anni
+    alias: Kastegren, Anni
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '56273'
+    url: http://www.gutenberg.org/2009/agents/56273
+    wikipedia: https://fi.wikipedia.org/wiki/Anni_Kaste
+description: ''
+gutenberg_issued: '2024-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72832'
+language: fi
+pgterms:marc905: 20231023004349kastegren
+pgterms:marc906: '1913'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bOtava, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Marraskuun ilta : $b Novelleja'
+url: http://www.gutenberg.org/ebooks/72832
